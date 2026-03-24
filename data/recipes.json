@@ -1,0 +1,321 @@
+[
+  {
+    "id": 1,
+    "title": "Butter Chicken",
+    "image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&q=80&w=800",
+    "description": "A rich and creamy chicken curry perfectly spiced and flavored with tomatoes.",
+    "ingredients": [
+      "500g Chicken",
+      "2 cups Tomato purée",
+      "1 cup Heavy cream",
+      "2 tbsp Butter",
+      "Spices (Garam masala, chili powder, turmeric)"
+    ],
+    "steps": [
+      "Marinate chicken with yogurt and spices for 2 hours.",
+      "Cook chicken pieces in a pan until lightly charred.",
+      "In a separate pan, melt butter and cook tomato purée with spices.",
+      "Add the cooked chicken and heavy cream. Simmer for 15 minutes.",
+      "Garnish with coriander and serve hot with naan."
+    ],
+    "feedbacks": []
+  },
+  {
+    "id": 2,
+    "title": "Palak Paneer",
+    "image": "https://i.pinimg.com/736x/9f/e3/22/9fe32244f0ffba515425f17de68e87c0.jpg",
+    "description": "Soft paneer cubes cooked in a smooth, vibrant, lightly spiced spinach curry.",
+    "ingredients": [
+      "250g Paneer cubes",
+      "3 cups Spinach leaves",
+      "1 Onion, finely chopped",
+      "Tomatoes",
+      "Garlic and ginger paste",
+      "Spices"
+    ],
+    "steps": [
+      "Blanch the spinach in boiling water, then blend it into a smooth purée.",
+      "Sauté onions, ginger, and garlic paste in a pan until golden.",
+      "Add chopped tomatoes and spices, cook until oil separates.",
+      "Pour in the spinach purée and let it simmer for 5 minutes.",
+      "Add paneer cubes, mix gently, and serve hot."
+    ],
+    "feedbacks": []
+  },
+  {
+    "id": 3,
+    "title": "Chole Bhature",
+    "image": "https://i.pinimg.com/736x/19/2d/72/192d722849ed087bf9442e978544f954.jpg",
+    "description": "A classic North Indian dish of spicy chickpea curry with fluffy fried bread.",
+    "ingredients": [
+      "1 cup Chickpeas (soaked)",
+      "2 cups Refined flour",
+      "Onions",
+      "Tomatoes",
+      "Chole Masala",
+      "Yogurt"
+    ],
+    "steps": [
+      "Pressure cook soaked chickpeas until tender.",
+      "Prepare a dough using flour, yogurt, and a pinch of baking soda. Let it rest.",
+      "Make a spicy gravy with onions, tomatoes, and chole masala.",
+      "Mix the cooked chickpeas into the gravy and simmer.",
+      "Roll dough into flat circles and deep fry to make puffy bhaturas."
+    ],
+    "feedbacks": []
+  },
+  {
+    "id": 4,
+    "title": "Chicken Biryani",
+    "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?auto=format&fit=crop&q=80&w=800",
+    "description": "An aromatic rice dish cooked with marinated chicken, saffron, and traditional spices.",
+    "ingredients": [
+      "2 cups Basmati Rice",
+      "500g Chicken",
+      "Yogurt",
+      "Biryani Spices",
+      "Fried Onions",
+      "Saffron milk"
+    ],
+    "steps": [
+      "Marinate chicken with yogurt and biryani spices.",
+      "Partially boil the basmati rice with whole spices.",
+      "In a heavy-bottomed pot, layer the marinated chicken and half-cooked rice.",
+      "Top with fried onions and drizzle saffron milk over the layers.",
+      "Seal the pot and cook on low heat (dum) for 30-40 minutes."
+    ],
+    "feedbacks": []
+  },
+  {
+    "id": 5,
+    "title": "Masala Dosa",
+    "image": "https://i.pinimg.com/736x/6e/10/c7/6e10c7c0c11d6e2a28d6c51c3877774a.jpg",
+    "description": "Crispy fermented crepe made from rice and lentils, filled with a spiced potato mixture.",
+    "ingredients": [
+      "Dosa batter (Fermented rice and lentils)",
+      "3 boiled potatoes",
+      "Mustard seeds",
+      "Curry leaves",
+      "Turmeric"
+    ],
+    "steps": [
+      "Mash the boiled potatoes.",
+      "Temper mustard seeds, curry leaves, and add onions. Cook until soft.",
+      "Add turmeric and the mashed potatoes to complete the filling.",
+      "Spread dosa batter thinly on a hot griddle and cook until crispy.",
+      "Place the potato filling in the center and fold."
+    ],
+    "feedbacks": []
+  },
+  {
+    "id": 6,
+    "title": "Samosa",
+    "image": "https://i.pinimg.com/736x/4d/b9/26/4db926acac314924ee3d1f284a49cb95.jpg",
+    "description": "Crispy triangular pastries filled with a spicy potato and pea filling.",
+    "ingredients": [
+      "2 cups All-purpose flour",
+      "3 Boiled potatoes",
+      "1/2 cup Green peas",
+      "Cumin seeds",
+      "Garam Masala"
+    ],
+    "steps": [
+      "Prepare a stiff dough using flour, oil, and water.",
+      "Mash boiled potatoes and mix with peas and spices.",
+      "Roll out circles of dough, cut them in half to form cones.",
+      "Fill cones with the potato mixture and seal the edges.",
+      "Deep fry until golden brown and crispy."
+    ],
+    "feedbacks": []
+  },
+  {
+    "id": 7,
+    "title": "Dal Makhani",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&q=80&w=800",
+    "description": "Slow-cooked black lentils and kidney beans finished with butter and cream.",
+    "ingredients": [
+      "1 cup Black Lentils (Urad dal)",
+      "1/4 cup Kidney Beans (Rajma)",
+      "Tomato purée",
+      "Butter",
+      "Cream"
+    ],
+    "steps": [
+      "Soak lentils and beans overnight. Cook them until soft.",
+      "In a pan, cook tomato purée, ginger-garlic paste, and spices.",
+      "Mix the cooked lentils with the gravy.",
+      "Simmer on a very low flame for at least 1-2 hours.",
+      "Finish with generous amounts of butter and cream."
+    ],
+    "feedbacks": []
+  },
+  {
+    "id": 8,
+    "title": "Pav Bhaji",
+    "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&q=80&w=800",
+    "description": "A spicy mashed vegetable curry served with buttery toasted bread rolls.",
+    "ingredients": [
+      "Mixed vegetables (Potato, Cauliflower, Peas)",
+      "Onions and Tomatoes",
+      "Pav Bhaji Masala",
+      "Butter",
+      "Pav (Bread rolls)"
+    ],
+    "steps": [
+      "Boil and mash the mixed vegetables completely.",
+      "Sauté onions, tomatoes, and Pav Bhaji Masala in butter.",
+      "Add the mashed vegetables, season with salt, and simmer.",
+      "Slit the pav bread and toast it generously with butter on a griddle.",
+      "Serve hot with chopped onions and a wedge of lemon."
+    ],
+    "feedbacks": []
+  },
+  {
+    "id": 9,
+    "title": "Aloo Gobi",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&q=80&w=800",
+    "description": "A comforting dry curry of potatoes and cauliflower cooked with Indian spices.",
+    "ingredients": [
+      "1 Cauliflower, cut into florets",
+      "2 Potatoes, cubed",
+      "Turmeric powder",
+      "Cumin seeds",
+      "Coriander powder"
+    ],
+    "steps": [
+      "Heat oil in a pan and temper with cumin seeds.",
+      "Add potato cubes and cook until partially tender.",
+      "Add cauliflower florets, turmeric, salt, and other spices.",
+      "Cover and cook on low heat until vegetables are tender.",
+      "Garnish with fresh coriander leaves."
+    ],
+    "feedbacks": []
+  },
+  {
+    "id": 10,
+    "title": "Tandoori Chicken",
+    "image": "https://i.pinimg.com/736x/24/91/6e/24916e2b9a6829fa887e63d879618639.jpg",
+    "description": "Yogurt and spice-marinated chicken, traditionally roasted in an oven.",
+    "ingredients": [
+      "Whole chicken, cut into pieces",
+      "Yogurt",
+      "Tandoori masala",
+      "Lemon juice",
+      "Kashmiri red chili powder"
+    ],
+    "steps": [
+      "Make deep cuts in the chicken pieces.",
+      "Marinate chicken with lemon juice, yogurt, and tandoori spices.",
+      "Let it rest in the refrigerator for at least 6 hours.",
+      "Grill or bake in a high-temperature oven until cooked and slightly charred.",
+      "Serve with mint chutney and onion rings."
+    ],
+    "feedbacks": []
+  },
+  {
+    "id": 11,
+    "title": "Paneer Tikka",
+    "image": "https://i.pinimg.com/736x/65/ec/5e/65ec5e141865a23b37aa4172672f2443.jpg",
+    "description": "Grilled cubes of paneer and bell peppers pre-marinated in spiced yogurt.",
+    "ingredients": [
+      "250g Paneer cubes",
+      "Bell peppers and Onions, cubed",
+      "Yogurt",
+      "Tikka spices",
+      "Gram flour (Besan)"
+    ],
+    "steps": [
+      "Mix yogurt, roasted gram flour, and spices to form a marinade.",
+      "Coat paneer and veggies well with the marinade.",
+      "Skewer alternating pieces of paneer, onion, and bell peppers.",
+      "Grill or pan-fry until charred and cooked on all sides.",
+      "Sprinkle chaat masala before serving."
+    ],
+    "feedbacks": []
+  },
+  {
+    "id": 12,
+    "title": "Rogan Josh",
+    "image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&q=80&w=800",
+    "description": "A deeply flavored, aromatic lamb curry hailing from Kashmir.",
+    "ingredients": [
+      "500g Lamb chunks",
+      "Kashmiri chili powder",
+      "Fennel powder",
+      "Ginger powder",
+      "Whole spices"
+    ],
+    "steps": [
+      "Brown the lamb pieces in oil/ghee with whole spices.",
+      "Add Kashmiri chili powder and a little water, cook on low heat.",
+      "Stir in fennel powder, ginger powder, and yogurt.",
+      "Cover and simmer gently for about 1-1.5 hours until the meat is incredibly tender.",
+      "Serve with steamed rice or naan."
+    ],
+    "feedbacks": []
+  },
+  {
+    "id": 13,
+    "title": "Vada Pav",
+    "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?auto=format&fit=crop&q=80&w=800",
+    "description": "Mumbai's famous street food—a spicy potato dumpling inside a soft bun.",
+    "ingredients": [
+      "4 Boiled potatoes",
+      "Chickpea flour batter",
+      "Pav (Bread bun)",
+      "Green chilies",
+      "Dry garlic chutney"
+    ],
+    "steps": [
+      "Temper mustard seeds, curry leaves, and green chilies. Mix with mashed potatoes.",
+      "Form potato balls, dip in chickpea batter, and deep fry (Vada).",
+      "Slit the pav bun, spread green chutney and sweet chutney.",
+      "Sprinkle dry garlic chutney and place the hot vada in the center.",
+      "Press gently and savor."
+    ],
+    "feedbacks": []
+  },
+  {
+    "id": 14,
+    "title": "Malai Kofta",
+    "image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&q=80&w=800",
+    "description": "Fried potato and paneer dumplings served in a rich, mild, slightly sweet gravy.",
+    "ingredients": [
+      "Paneer and Potatoes (mashed)",
+      "Cornflour",
+      "Cashews and Raisins",
+      "Tomato-onion purée",
+      "Cream"
+    ],
+    "steps": [
+      "Mix paneer, potato, and cornflour. Form balls stuffed with cashews.",
+      "Deep fry the stuffed balls (koftas) until golden and crisp.",
+      "Prepare a creamy gravy using onion-tomato purée and spices.",
+      "Cook the gravy thoroughly and add heavy cream.",
+      "Pour gravy over koftas just before serving."
+    ],
+    "feedbacks": []
+  },
+  {
+    "id": 15,
+    "title": "Gajar Ka Halwa",
+    "image": "https://i.pinimg.com/1200x/17/40/ad/1740ad6ad301e60a960aedd65dd1ae3c.jpg",
+    "description": "A classic Indian dessert made from grated carrots, milk, sugar, and dry fruits.",
+    "ingredients": [
+      "1kg Grated carrots",
+      "1 liter Full-fat milk",
+      "1 cup Sugar",
+      "Ghee (Clarified butter)",
+      "Cardamom powder",
+      "Nuts"
+    ],
+    "steps": [
+      "Sauté grated carrots in ghee for a few minutes.",
+      "Add milk and cook on low heat until the carrots are soft and milk is almost absorbed.",
+      "Stir in sugar and cook until the mixture dries up and releases ghee.",
+      "Add cardamom powder and mixed chopped nuts.",
+      "Serve warm."
+    ],
+    "feedbacks": []
+  }
+]
