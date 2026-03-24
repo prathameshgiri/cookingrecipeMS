@@ -62,7 +62,7 @@ ADMIN_PORT=3001
 
 ## 🎯 Developed For
 This project was specifically developed for **Pallavi Yevale**.
-- **Purpose:** Final Year College Project (B.Voc Computer Technology)
+- **Purpose:** Final Year College Project (BCA)
 - Educational Purpose
 - Real-world Practice
 
